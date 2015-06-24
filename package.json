@@ -1,6 +1,6 @@
 {
   "name": "ywca-chapter01",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Yeoman generator",
   "license": "MIT",
   "main": "index.js",
@@ -13,9 +13,6 @@
   "scripts": {
     "test": "mocha"
   },
-  "files": [
-    "generators"
-  ],
   "keywords": [
     "ywca",
     "core",
