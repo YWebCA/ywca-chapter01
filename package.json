@@ -1,9 +1,9 @@
 {
   "name": "ywca-chapter01",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Yeoman generator",
   "license": "MIT",
-  "main": "app/index.js",
+  "main": "index.js",
   "repository": "TehNatha/ywca-chapter01",
   "author": {
     "name": "Nathan",
