@@ -1,6 +1,6 @@
 {
   "name": "ywca-chapter01",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Yeoman generator",
   "license": "MIT",
   "main": "index.js",
@@ -20,8 +20,9 @@
     "chapter01"
   ],
   "dependencies": {
-    "yeoman-generator": "^0.19.0",
     "chalk": "^1.0.0",
+    "jasmine": "^2.3.1",
+    "yeoman-generator": "^0.19.0",
     "yosay": "^1.0.2"
   },
   "devDependencies": {
